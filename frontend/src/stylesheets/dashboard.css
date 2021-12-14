@@ -1,0 +1,33 @@
+ .tabledata{
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+ }  
+td, th{
+border: 1px solid #cc0000;
+padding: 15px;
+}
+td{
+    color: black;
+}
+th{
+    background-color: #ebecf0;
+}
+
+
+#dashboard-iid{
+
+    margin: 3% 5%;
+    padding: 15px 5px;
+    border-radius: 10px;
+    border: 3px inset #c00000;
+    width: 30%;
+    outline: none;
+    font-size: 1rem;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    /* box-shadow:
+    1px 1px 5px rgba(87, 81, 81, 0.25)  inset,
+      -4px -4px 5px  rgb(255, 255, 255) inset; */
+  }

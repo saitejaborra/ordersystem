@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    padding: 1% 3%;
+    margin: auto;
+    align-items: center;
+    justify-content:space-between;
+    color: #ebecf0;
+    background-color: #cc0000;
+    box-shadow: 2px 2px 5px #ffffff;
+    }
+.fulllogo{
+     display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: flex-end;
+    }
+.fulllogo p{
+    font-size: 8px;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1.5px;
+    }
+.dashboard-button{
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: #cc0000;
+    color: white;
+    box-shadow: 2px 2px 5px rgb(87, 81, 81,  25%), 
+    -2px -2px 5px rgb(87, 81, 81,  25%);
+}
